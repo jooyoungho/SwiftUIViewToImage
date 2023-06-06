@@ -14,6 +14,7 @@ In Xcode, select "File" > "Swift Packages" > "Add Package Dependency" and enter 
 Here is an example of how to use SwiftUIViewToImage to take a snapshot of a SwiftUI View:
 
 ```swift
+import SwiftUI
 import SwiftUIViewToImage
 
 struct ContentView: View {
